@@ -1,0 +1,33 @@
+.cartGrid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.emptyCart {
+    font-size: 7vh;
+
+}
+.delBtn{
+    margin-top: -28px;
+}
+
+table {
+    margin: 100px;
+    padding: 10px;
+    border: 6px solid black;
+    box-shadow: 10px 10px 8px #888888;
+}
+
+.cartImg {
+    height: 7rem;
+}
+
+tfoot {
+    font-size: 6vh;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+}

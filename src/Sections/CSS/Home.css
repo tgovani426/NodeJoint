@@ -1,0 +1,36 @@
+.HomeContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.WelcomeNote {
+    margin-top: -100px;
+    z-index: 1;
+}
+
+#WelcomeSubtitle {
+    /* padding-top: 10vh; */
+    padding: 0 10%;
+    font-size: 20px;
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .HomeContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .WelcomeNote {
+        margin-top: -20px;
+
+    }
+
+    #WelcomeSubtitle {
+        font-size: 12px;
+        text-align: justify;
+        width: 38vh;
+    }
+
+
+}

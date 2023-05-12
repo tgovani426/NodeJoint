@@ -1,0 +1,13 @@
+=> Description: Your task is to build a landing page that showcases a product or service. The landing page should be responsive and optimized for both desktop and mobile devices. You should use HTML, CSS, and JavaScript to create the page, and the page should include the following elements:
+
+Header: The header should include a logo, navigation menu, and a call-to-action (CTA) button.
+
+Hero section: This section should include a prominent image or video of the product or service, as well as a headline and a brief description.
+
+Features section: This section should highlight the key features of the product or service, using icons or images to illustrate each feature.
+
+Testimonials section: This section should include testimonials from satisfied customers, along with their names and photos.
+
+Pricing section: This section should display the different pricing options for the product or service, including any discounts or special offers.
+
+CTA section: This section should include a final call-to-action, encouraging users to sign up or make a purchase.

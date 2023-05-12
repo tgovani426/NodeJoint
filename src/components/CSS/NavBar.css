@@ -1,0 +1,48 @@
+.bagSize {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 25px;
+    height: 25px;
+    background-color: transparent;
+    border-radius: 50%;
+    margin-bottom: 40px;
+    color: whitesmoke;
+}
+
+.navbar {
+    height: 13.2vh;
+}
+
+.cart {
+    display: flex;
+    flex-direction: row;
+    height: 10vh;
+}
+
+a {
+    text-decoration: none;
+    color: gainsboro;
+    margin: 0 5px;
+}
+
+.cart-btn {
+    margin-top: auto;
+    height: 6vh;
+    width: max-content;
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+
+    .navbar {
+        height: 18vh;
+        padding: 0 20px;
+
+    }
+
+    .cart-btn {
+        display: block;
+    }
+
+    
+}
