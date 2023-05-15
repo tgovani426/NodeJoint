@@ -4,7 +4,7 @@ import logo from '../Media/icon.svg'
 
 const Header = () => {
     const attributes = [
-        'Home', 'Features', 'Pricing', 'Testimonial'
+        'Home', 'Pricing', 'Testimonial'
     ]
     return (
         <>
